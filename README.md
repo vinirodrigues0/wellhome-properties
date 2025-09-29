@@ -4,7 +4,7 @@ Sistema fullstack para gerenciamento de imóveis desenvolvido como case técnico
 
 ## 🌐 Demo Online
 
-- **🚀 Aplicação:** https://welhome-properties-frontend.onrender.com
+- **🚀 Aplicação:** https://wellhome-properties-frontend.onrender.com
 - **🔌 API Backend:** https://wellhome-properties.onrender.com
 
 > ⚠️ **Nota:** O backend pode demorar ~30 segundos na primeira requisição (plano gratuito do Render).
